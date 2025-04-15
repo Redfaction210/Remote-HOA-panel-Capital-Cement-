@@ -1,0 +1,1 @@
+new install of remote HOA contactors and switches for plant maintenance staff to be able to actuate and troubleshoot motors in the field from the electrical room it was installed in, reducing  overall time for diagnostics and repairs.
